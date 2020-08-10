@@ -1,5 +1,3 @@
-
-Using logistic regression and random forests to detect fraudulent credit card transactions
 <h1 align="center">Credit Card Fraud Detection (Kaggle Dataset)</h1>
 <p align="center">
 Using logistic regression and random forests to detect fraudulent credit card transactions.
